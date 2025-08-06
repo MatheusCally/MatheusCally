@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatheusCally
-- 👀 I’m a full stack software developer
-- 🌱 Working with Java, Spring Boot | Javascript, Angular
+- 👀 I’m a software engineer
+- 🌱 Working with Java, Spring Boot | React, Angular | AI
 - 📫 matheus.cally@hotmail.com
 
 <!---
